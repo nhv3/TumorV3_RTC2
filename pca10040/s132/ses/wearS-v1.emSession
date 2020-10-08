@@ -1,0 +1,84 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBufferWindow>
+  <FrameBufferWindow bufferHeight="-1" addressSpace="" addressText="" bufferWidth="-1"/>
+ </FrameBufferWindow>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="" addressText="0x2C0"/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" addressOrder="0" columnsText="" refreshPeriod="0" name="nrf52-ble-tutorial-characteristic" radix="16" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;Application"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;Board Support"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_Drivers"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_Libraries"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_Segger_RTT"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;nRF_SoftDevice"/>
+  <ProjectSessionItem path="nrf52-ble-tutorial-characteristic;nrf52-ble-tutorial-characteristic;Segger Startup Files"/>
+ </Project>
+ <Register1>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="nrf52-ble-tutorial-characteristic" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="56" y="1092" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../main.c" selected="1" top="1077" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="98" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/util/app_error_weak.c" selected="0" top="98" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="87" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../AD5592R.c" selected="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../SPIFlash.c" selected="0" top="335" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="509" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../external/segger_rtt/SEGGER_RTT_printf.c" selected="0" top="469" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="54" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/delay/nrf_delay.h" selected="0" top="42" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="205" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/nrfx_glue.h" selected="0" top="178" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="64" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/soc/nrfx_coredep.h" selected="0" top="43" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="960" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/timer/app_timer.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="30" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../../../nicholasvitale/Library/SEGGER/SEGGER Embedded Studio/v3/tools.xml" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="5055" useTextEdit="1" useBinaryEdit="0" left="0" path="../config/sdk_config.h" selected="0" top="5032" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="24" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/timer/app_timer.h" selected="0" top="4" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../components/libraries/sensorsim/sensorsim.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="140" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/src/nrfx_rtc.c" selected="0" top="108" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="65" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/include/nrfx_rtc.h" selected="0" top="45" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="228" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../integration/nrfx/legacy/nrf_drv_clock.c" selected="0" top="208" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="111" useTextEdit="1" useBinaryEdit="0" left="0" path="../../../../../../modules/nrfx/drivers/nrfx_common.h" selected="0" top="91" codecName="Default"/>
+ </Files>
+ <ARMCrossStudioWindow activeProject="nrf52-ble-tutorial-characteristic" fileDialogDefaultFilter="*.h" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="C:/Users/tasif/Dropbox/hardware-nordic/nRF5_SDK_15.0.0_a53641a/examples/ble_peripheral/2020-08-18-tumor-test/ADC.c&#xa;C:/Users/tasif/Dropbox/hardware-nordic/nRF5_SDK_15.0.0_a53641a/examples/ble_peripheral/2020-08-18-tumor-both-res-batt-butt/ADC.c&#xa;C:/Users/tasif/Dropbox/hardware-nordic/nRF5_SDK_15.0.0_a53641a/examples/ble_peripheral/tumor-v1-2020-01-17-mux-dac-check/ADC.c&#xa;&#xa;C:/nordic_semi/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/ses_nrf52_Vectors.s&#xa;C:/Users/tasif/Dropbox/hardware-nordic/nRF5_SDK_15.0.0_a53641a/modules/nrfx/mdk/ses_nrf52_Vectors.s&#xa;C:\Users\tasif\Dropbox\hardware-nordic\nRF5_SDK_15.0.0_a53641a\modules\nrfx\mdk/ses_nRF_Startup.s&#xa;&#xa;C:\Users\tasif\Dropbox\hardware-nordic\nRF5_SDK_15.0.0_a53641a\modules\nrfx\mdk/ses_nrf52_Vectors.s&#xa;" fileDialogInitialDirectory="/Users/Nordic/nRF5_SDK_15.0.0_a53641a/modules/nrfx/drivers/include" debugSearchPath="" autoConnectCapabilities="3199"/>
+</session>
